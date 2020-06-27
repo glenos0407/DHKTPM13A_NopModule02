@@ -33,17 +33,27 @@ namespace ThayThe
                 DataAccessMethod.Sequential), DeploymentItem("dataThayThe.csv")]
         public void TestDGN()
         {
-            MethodLibrary.MethodLibrary obj = new MethodLibrary.MethodLibrary();
+            Exception ExpectedException = null;
+            try
+            {
+                MethodLibrary.MethodLibrary obj = new MethodLibrary.MethodLibrary();
 
-            string a, b, c;
-            a = TestContext.DataRow[0].ToString();
-            b = TestContext.DataRow[1].ToString();
-            c = TestContext.DataRow[2].ToString();
+                string a, b, c;
+                a = TestContext.DataRow[0].ToString();
+                b = TestContext.DataRow[1].ToString();
+                c = TestContext.DataRow[2].ToString();
 
-            string expectedResult = TestContext.DataRow[3].ToString();
-            string actualResult = obj.ThayThe(a, b, c);
+                string expectedResult = TestContext.DataRow[3].ToString();
+                string actualResult = obj.ThayThe(a, b, c);
 
-            Assert.AreEqual(expectedResult, actualResult);
+                Assert.AreEqual(expectedResult, actualResult);
+            }
+            catch (Exception ex)
+            {
+                ExpectedException = ex;
+            }
+            Assert.IsNotNull(ExpectedException);
+           
         }
     }
 }
