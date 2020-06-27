@@ -4,3 +4,9 @@ C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTu
 C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
 C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.dll
 C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.pdb
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\bin\Debug\SourceCode.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.csprojAssemblyReference.cache
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.pdb

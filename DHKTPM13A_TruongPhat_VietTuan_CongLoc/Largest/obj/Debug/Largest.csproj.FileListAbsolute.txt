@@ -26,3 +26,18 @@ C:\Users\thcon\Desktop\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongL
 C:\Users\thcon\Desktop\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.csproj.CopyComplete
 C:\Users\thcon\Desktop\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.dll
 C:\Users\thcon\Desktop\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.pdb
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Largest.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Largest.pdb
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\MethodLibrary.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.csprojAssemblyReference.cache
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.csproj.CoreCompileInputs.cache
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.csproj.CopyComplete
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.dll
+C:\Users\PhatDepTraiCute\Downloads\Đảm bảo chất lượng phần mềm\DHKTPM13A_NopModule02\DHKTPM13A_TruongPhat_VietTuan_CongLoc\Largest\obj\Debug\Largest.pdb
