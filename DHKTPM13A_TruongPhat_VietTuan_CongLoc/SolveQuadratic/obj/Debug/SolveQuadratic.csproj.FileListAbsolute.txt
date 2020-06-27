@@ -1,0 +1,15 @@
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\SolveQuadratic.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\SolveQuadratic.pdb
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\obj\Debug\SolveQuadratic.csprojAssemblyReference.cache
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\obj\Debug\SolveQuadratic.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\obj\Debug\SolveQuadratic.csproj.CopyComplete
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\obj\Debug\SolveQuadratic.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\obj\Debug\SolveQuadratic.pdb
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SolveQuadratic\bin\Debug\MethodLibrary.dll

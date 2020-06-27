@@ -1,0 +1,12 @@
+﻿s1,s2,s3,Expected result
+Nguyen Viet Tuan,Viet,Anh,Nguyen Anh Tuan
+Nguyen Viet Tuan,,Anh,Nguyen Viet Tuan
+Nguyen Viet Tuan,Viet,,Nguyen  Tuan
+,,,,
+Nguyen Viet Tuan,Nguyen Viet Tuan,,
+Nguyen Viet Tuan,Nguyen Viet Tuannn,Anh,Nguyen Viet Tuan
+Nguyen Viet Tuan,anh,nh,Nguyen Viet Tuan
+Dai hoc Cong Nghiep,Da,g,gi hoc Cong Nghiep
+Dai hoc Cong Nghiep,p,h,Dai hoc Cong Nghieh
+Dai hoc Cong Nghiep,aD,h,Dai hoc Cong Nghiep
+Dai hoc Cong Nghiep,pa,h,Dai hoc Cong Nghiep

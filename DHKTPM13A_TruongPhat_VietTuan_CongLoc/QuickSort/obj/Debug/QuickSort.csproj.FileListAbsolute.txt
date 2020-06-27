@@ -1,0 +1,14 @@
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\QuickSort.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\obj\Debug\QuickSort.csproj.CopyComplete
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\obj\Debug\QuickSort.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\QuickSort\bin\Debug\MethodLibrary.dll

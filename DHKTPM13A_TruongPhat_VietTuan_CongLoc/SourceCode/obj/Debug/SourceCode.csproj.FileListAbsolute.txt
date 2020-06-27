@@ -1,0 +1,6 @@
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\bin\Debug\SourceCode.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.csprojAssemblyReference.cache
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.dll
+C:\Users\Tuan Nguyen\Downloads\Bai tap nop theo nhom\DHKTPM13A_TruongPhat_VietTuan_CongLoc\SourceCode\obj\Debug\SourceCode.pdb
